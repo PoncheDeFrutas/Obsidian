@@ -5,7 +5,12 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "LiCloud",
+      "LiDatabase",
+      "LiBookTemplate",
+      "LiFolder"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -27,5 +32,24 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  }
+  },
+  "00_Inbox": "LiFolder",
+  "01_Cuadernos": "LiFolder",
+  "02_Cursos": "LiFolder",
+  "03_Proyectos": "LiFolder",
+  "04_Referencias": "LiFolder",
+  "98_Dashboards": "LiFolder",
+  "99_Sistema": "LiFolder",
+  "99_Sistema/Templates": "LiFolder",
+  "99_Sistema/Templates/Cuadernos": "LiFolder",
+  "99_Sistema/Templates/Cursos": "LiFolder",
+  "99_Sistema/Templates/Notas": "LiFolder",
+  "99_Sistema/Templates/Notas/Nota - Permanente.md": "LiBookTemplate",
+  "99_Sistema/Templates/Cursos/Curso - índice.md": "LiBookTemplate",
+  "99_Sistema/Templates/Cursos/Curso - Lección.md": "LiBookTemplate",
+  "02_Cursos/Certificaciones": "LiFolder",
+  "02_Cursos/Cursos Online": "LiFolder",
+  "02_Cursos/Universidad": "LiFolder",
+  "02_Cursos/Certificaciones/MongoDB Python Developer Path": "LiDatabase",
+  "99_Sistema/Templates/Cursos/Curso - Modulo.md": "LiBookTemplate"
 }

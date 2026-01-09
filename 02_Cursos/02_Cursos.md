@@ -1,14 +1,14 @@
 ---
-type: curso  
-estado: en-progreso # en-progreso | pausado | completado  
-creado: <% tp.date.now("YYYY-MM-DD") %>  
-plataforma:  
-area:  
-nivel:  
-tags: [curso]
+type: carpeta
+estado: en-progreso
+creado: 2025-12-27
+plataforma:
+area:
+nivel:
+tags:
+  - curso
 ---
-#  <% tp.file.folder(true).split("/").pop() %>
-Carpeta: [[<% tp.file.folder(true).split("/").slice(-2, -1)[0] %>]]
+#  02_Cursos
 
 ## Objetivo del curso
 
@@ -21,7 +21,7 @@ Carpeta: [[<% tp.file.folder(true).split("/").slice(-2, -1)[0] %>]]
 ```dataview
 list
 from ""
-where type = "modulo" and contains(file.folder, this.file.folder)
+where type = "Seccion" and contains(file.folder, this.file.folder)
 sort file.name asc
 ```
 
@@ -30,7 +30,7 @@ sort file.name asc
 ## Estado
 
 - **Estado actual:** en-progreso
-- **Última revisión:** <% tp.date.now("YYYY-MM-DD") %>
+- **Última revisión:** 2025-12-27
 
 ---
 

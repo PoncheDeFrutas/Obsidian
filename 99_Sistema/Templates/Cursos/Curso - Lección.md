@@ -8,6 +8,10 @@ tags: [leccion]
 #  <% tp.file.title %>
 Curso: [[<% tp.file.folder(true).split("/").pop() %>]]
 
+## Descripción general de la lección
+
+> 
+
 ##  Objetivos de la lección
 
 > ¿Qué deberías saber al terminar esta lección?
