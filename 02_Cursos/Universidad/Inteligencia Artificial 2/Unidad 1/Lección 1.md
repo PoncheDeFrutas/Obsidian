@@ -1,26 +1,43 @@
 ---
-type: leccion  
-curso: <% tp.file.folder(true).split("/").pop() %>  
-fecha: <% tp.date.now("YYYY-MM-DD") %>  
-estado: en-progreso  
-tags: [leccion]
+type: leccion
+curso: Unidad 1
+fecha: 2026-01-19
+estado: en-progreso
+tags:
+  - leccion
 ---
-#  <% tp.file.title %>
-Unidad: [[<% tp.file.folder(true).split("/").pop() %>]]
+#  Lección 1
+Curso: [[Unidad 1]]
 
 ## Descripción general de la lección
-
 > 
 
 ##  Objetivos de la lección
 
-> ¿Qué deberías saber al terminar esta lección?
+> Aprender a como realizar un ensayo
 
 ---
 
 ## Contenido
 
 > Explicación principal: teoría, pasos, ideas importantes
+
+### Esquema visual de un ensayo
+
+- Titulo
+	- Identifica el tema central y atrae la atención
+- Introducción
+	- Presentación del tema, relevancia y objetivo del ensayo
+- Desarrollo
+	- Exponer argumentos, evidencias, y análisis critico, (dar respuesta a diferentes preguntas)
+- Conclusión
+	- Resume ideas clave y presentar reflexiones (toma tiempo para pensar)
+- Referencias
+	- Fuentes consultadas en formato académico
+
+
+
+
 
 ---
 

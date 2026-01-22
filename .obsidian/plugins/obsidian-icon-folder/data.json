@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiNotebook",
       "LiCloud",
       "LiDatabase",
       "LiBookTemplate",
@@ -51,5 +52,10 @@
   "02_Cursos/Cursos Online": "LiFolder",
   "02_Cursos/Universidad": "LiFolder",
   "02_Cursos/Certificaciones/MongoDB Python Developer Path": "LiDatabase",
-  "99_Sistema/Templates/Cursos/Curso - Modulo.md": "LiBookTemplate"
+  "99_Sistema/Templates/Cursos/Curso - Modulo.md": "LiBookTemplate",
+  "02_Cursos/Universidad/Inteligencia Artificial 2": "LiFolder",
+  "02_Cursos/Universidad/Inteligencia Artificial 2/Unidad 1": "LiFolder",
+  "02_Cursos/Universidad/Inteligencia Artificial 2/Unidad 1/Lección 1.md": "LiNotebook",
+  "02_Cursos/Universidad/Seminario de Sistemas 2": "LiFolder",
+  "02_Cursos/Universidad/Seminario de Sistemas 2/Unidad 1": "LiFolder"
 }

@@ -1,12 +1,13 @@
 ---
-type: leccion  
-curso: <% tp.file.folder(true).split("/").pop() %>  
-fecha: <% tp.date.now("YYYY-MM-DD") %>  
-estado: en-progreso  
-tags: [leccion]
+type: leccion
+curso: Unidad 1
+fecha: 2026-01-19
+estado: en-progreso
+tags:
+  - leccion
 ---
-#  <% tp.file.title %>
-Unidad: [[<% tp.file.folder(true).split("/").pop() %>]]
+#  Lección 01
+Curso: [[Unidad 1]]
 
 ## Descripción general de la lección
 
