@@ -37,7 +37,7 @@ Curso: [[Unidad 1]]
 
 
 
-
+resumen del video why struci if gogole knows everything
 
 ---
 
