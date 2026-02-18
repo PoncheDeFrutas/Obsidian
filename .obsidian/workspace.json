@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Cursos/Universidad/Analisis y Diseño 2/Unidad 1/Lección 01 - Principios del diseño de Arquitectura.md",
+                "file": "02_Cursos/Universidad/Analisis y Diseño 2/Unidad 1/Lección 02 - Ingeniería de Requisitos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lección 01 - Principios del diseño de Arquitectura"
+              "title": "Lección 02 - Ingeniería de Requisitos"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_Cursos/Universidad/Analisis y Diseño 2/Unidad 1/Lección 01 - Principios del diseño de Arquitectura.md",
+                "file": "02_Cursos/Universidad/Analisis y Diseño 2/Unidad 1/Lección 02 - Ingeniería de Requisitos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lección 01 - Principios del diseño de Arquitectura"
+              "title": "Backlinks for Lección 02 - Ingeniería de Requisitos"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_Cursos/Universidad/Analisis y Diseño 2/Unidad 1/Lección 01 - Principios del diseño de Arquitectura.md",
+                "file": "02_Cursos/Universidad/Analisis y Diseño 2/Unidad 1/Lección 02 - Ingeniería de Requisitos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lección 01 - Principios del diseño de Arquitectura"
+              "title": "Outline of Lección 02 - Ingeniería de Requisitos"
             }
           },
           {
@@ -188,7 +188,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "daaad898b2d94af7",
@@ -230,14 +231,16 @@
       "graph:Open graph view": false
     }
   },
-  "active": "44215ed66590cf02",
+  "active": "02f4b32bf445c2d1",
   "lastOpenFiles": [
-    "Untitled.md",
     "02_Cursos/Universidad/Analisis y Diseño 2/Unidad 1/Lección 01 - Principios del diseño de Arquitectura.md",
+    "02_Cursos/Universidad/Analisis y Diseño 2/Unidad 1/Lección 02 - Ingeniería de Requisitos.md",
+    "02_Cursos/Universidad/Analisis y Diseño 2/Unidad 1/Unidad 1.md",
+    "Untitled 1.md",
+    "Untitled.md",
     "02_Cursos/Universidad/Inteligencia Artificial 2/Unidad 1/Unidad 1.md",
     "02_Cursos/Universidad/Inteligencia Artificial 2/Unidad 1/Untitled.md",
     "02_Cursos/Universidad/Gerenciales 1/Unidad 1/Unidad 1.md",
-    "02_Cursos/Universidad/Analisis y Diseño 2/Unidad 1/Unidad 1.md",
     "02_Cursos/Universidad/Analisis y Diseño 2/Analisis y Diseño 2.md",
     "02_Cursos/Universidad/Inteligencia Artificial 2/Unidad 1/Lección 1.md",
     "02_Cursos/Universidad/Seminario de Sistemas 2/Unidad 1/Inteligencia de Negocios - Impulsando Decisiones Estratégicas.md",
@@ -264,8 +267,6 @@
     "02_Cursos/Certificaciones/MongoDB Python Developer Path/02_tema x/02_tema x.md",
     "02_Cursos/Certificaciones/MongoDB Python Developer Path/01 Intro to MongoDB/Drawing 2026-01-09 20.42.16.excalidraw.md",
     "Excalidraw/Drawing 2026-01-09 20.42.02.excalidraw.md",
-    "Excalidraw/Drawing 2025-12-26 16.37.37.excalidraw.md",
-    "02_Cursos/Certificaciones/AWS Machine Learning for Natural Language Processing/AWS Machine Learning for Natural Language Processing.md",
     "Untitled 4.base",
     "02_Cursos/Universidad/Inteligencia Artificial 2",
     "Untitled.canvas"
